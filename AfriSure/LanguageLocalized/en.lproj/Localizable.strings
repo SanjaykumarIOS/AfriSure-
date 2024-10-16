@@ -1,0 +1,116 @@
+/* 
+  Localizable.strings
+  AfriSure
+
+  Created by SANJAY  on 10/04/24.
+  
+*/
+
+//Login page
+"KenIndia" = "KenIndia";
+"Nyala" = "Nyala";
+"Sign in" = "Sign in";
+"Select your Organisation" = "Select your Organisation";
+"Email" = "Email";
+"Enter your Email" = "Enter your Email";
+"Password" = "Password";
+"Enter your Password" = "Enter your Password";
+"LOGIN" = "LOGIN";
+"Forgot your password?" = "Forgot your password?";
+"Don't have an account?" =  "Don't have an account?";
+"SIGN UP" = "SIGN UP";
+
+
+//DashBoard Page
+"Hello Saranya," = "Hello Saranya,";
+"Line of Business" = "Line Of Business";
+"View more" = "View more";
+"Get Quotes" = "Get Quotes";
+"Home" = "Home";
+"My Quotation" = "My Quotation";
+"Notifications" = "Notifications";
+"Account" = "Account";
+"Settings" = "Settings";
+"Your session has been expired. Please login again to continue" = "Your session has been expired. Please login again to continue";
+"Logout" = "Logout";
+"Are you sure you want to logout?" = "Are you sure you want to logout?";
+"Yes" = "Yes";
+"No" = "No";
+
+//Line of Business
+"Search" = "Search";
+"Line of Business" = "Line of Business";
+
+//Product page
+"Products" = "Products";
+"NEXT" = "NEXT";
+
+//User Information page
+"To personalize your insurance policy, we'd love to know more about you." = "To personalize your insurance policy, we'd love to know more about you.";
+"Customer Type*" = "Customer Type*";
+"Full Name" = "Full Name";
+"Phone Number" = "Phone Number";
+"Email Address" = "Email Address";
+"User Information" = "User Information";
+
+//Custom form
+"Quotation ID" = "Quotation ID";
+"Done" = "Done";
+"Custom Forms" = "Custom Forms";
+"OK" = "OK";
+
+//Quotation page
+"Compare" = "Compare";
+"Total Premium" = "Total Premium";
+"Selected" = "Selected";
+"Select" = "Select";
+"View Checklist" = "View Checklist";
+"No Checklist Available" = "No Checklist Available";
+"Based on the criteria you have selected, this product is not eligible for you." = "Based on the criteria you have selected, this product is not eligible for you.";
+"INSTALLMENTS" = "INSTALLMENTS";
+"BREAK-DOWN" = "BREAK-DOWN";
+"Quotation" = "Quotation";
+"Compare Quotations" = "Compare Quotations";
+"Check List" = "Check List";
+"Quotation Installments" = "Quotation Installments";
+"S.No" = "S.No";
+"Installment Period" = "Installment Period";
+"Amount" = "Amount";
+"Quotation Break-Down" = "Quotation Break-Down";
+"S.No" = "S.No";
+"Premium Category" = "Premium Category";
+"Amount" = "Amount";
+"Total" = "Total";
+"PROCEED TO BUY" = "PROCEED TO BUY";
+"Compare products" = "Compare products";
+"Please select only two products for comparison." = "Please select only two products for comparison.";
+
+//Quotation history
+"User Name" = "User Name";
+"Created On" = "Created On";
+"Policy Type" = "Policy Type";
+"Account Number" = "Account Number";
+"Expiry Date" = "Expiry Date";
+"Quotation List" = "Quotation List";
+
+
+//Error Message
+"Please select your organisation to continue!" = "Please select your organisation to continue!";
+"Please enter your email address to continue!" = "Please enter your email address to continue!";
+"Please enter valid email address to continue!" = "Please enter valid email address to continue!";
+"Please enter your password to continue!" = "Please enter your password to continue!";
+"Please enter your full name to continue!" = "Please enter your full name to continue!";
+"Please enter your phone number to continue!" = "Please enter your phone number to continue!";
+"Please enter your valid phone number to continue!" = "Please enter your valid phone number to continue!";
+"Please select adjustment type to continue!" = "Please select adjustment type to continue!";
+"Please select risk category to continue!" = "Please select risk category to continue!";
+"Please enter amount to continue!" = "Please enter amount to continue!";
+"Amount value cannot be 0." = "Amount value cannot be 0.";
+"Amount exceeds the maximum limit of " = "Amount exceeds the maximum limit of ";
+"Please enter comments to continue!" = "Please enter comments to continue!";
+"Something went wrong" = "Something went wrong";
+"Customer Type is required" = "Customer Type is required";
+"Either Customer ID or Customer Name is required" = "Either Customer ID or Customer Name is required";
+"Please select the customer" = "Please select the customer";
+"Server Error: Oops! Something went wrong on our end. Our servers are experiencing technical difficulties. We apologize for the inconvenience. Please try again later." = "Server Error: Oops! Something went wrong on our end. Our servers are experiencing technical difficulties. We apologize for the inconvenience. Please try again later.";
+

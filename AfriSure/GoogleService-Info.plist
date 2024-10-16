@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBxzn95UEomW9rhNn9reSiL5iLTGg3K0SM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>895246951258</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>swiftant.AfriSure</string>
+	<key>PROJECT_ID</key>
+	<string>afrisure-628d5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>afrisure-628d5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:895246951258:ios:449f2dd2b7a54f1ff58963</string>
+</dict>
+</plist>

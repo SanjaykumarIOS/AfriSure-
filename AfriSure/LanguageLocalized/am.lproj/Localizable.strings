@@ -1,0 +1,113 @@
+/* 
+  Localizable.strings
+  AfriSure
+
+  Created by SANJAY  on 10/04/24.
+  
+*/
+
+//Login page
+"KenIndia" = "ኬንኢንዲያ";
+"Nyala" = "ኒያላ";
+"Sign in" = "ግባ";
+"Select your Organisation" = "የምህዳርያስተምር ይምረጡ";
+"Email" = "ኢሜይል";
+"Enter your Email" = "ኢሜይልውን ያስገቡ";
+"Password" = "ፓስወርድ";
+"Enter your Password" = "ፓስወርድዎን ያስገቡ";
+"LOGIN" = "ግባ";
+"Forgot your password?" = "ፓስወርድዎን ለማረጋገጥ?";
+"Don't have an account?" =  "አካውንት የለውም?";
+"SIGN UP" = "ይመዝገቡ";
+
+//DashBoard Page
+"Hello Saranya," = "ሰላም Saranya,";
+"Line of Business" = "በኢንሹራንስ ሂደት";
+"View more" = "ተጨማሪ ይመልከቱ";
+"Get Quotes" = "ዋጋ ይሁኑ";
+"Home" = "መነሻ";
+"My Quotation" = "የጥቅል ቋንቋዎች";
+"Notifications" = "ማሳወቂያዎች";
+"Account" = "መለያ";
+"Settings" = "ቅንብሮች";
+"Your session has been expired. Please login again to continue" = "የእርስዎ ክፍለ ጊዜ ጊዜው አልፎበታል። ለመቀጠል እባክዎ እንደገና ይግቡ";
+"Logout" = "ውጣ";
+"Are you sure you want to logout?" = "እርግጠኛ ነህ መውጣት ትፈልጋለህ?";
+"Yes" = "አዎ";
+"No" = "አይ";
+
+//Line of Business
+"Search" = "ፈልግ";
+"Line of Business" = "የኢንሹራንስ ሂደት";
+
+//Product page
+"Products" = "ንግድ";
+"NEXT" = "ቀጣይ";
+
+//User Information page
+"To personalize your insurance policy, we'd love to know more about you." = "አሁንም እንዲህ በመጠበቅ እኛን እንዲሆን እናስቀም የአስራሪነትን ፖሊሲኒል መረጃ የሚገኘውን መረጃ የተጠቃሚውን ይፈጥራል።";
+"Customer Type*" = "የተጠቃሚ አይነት*";
+"Full Name" = "ሙሉ ስም";
+"Phone Number" = "ስልክ ቁጥር";
+"Email Address" = "ኢሜል አድራሻ";
+"User Information" = "ተጠቃሚ መረጃ";
+
+//Custom form
+"Quotation ID" = "ዋጋ መለያ";
+"Done" = "እሺ";
+"Custom Forms" = "ሥርዓቶች በግልጽ";
+"OK" = "እሺ";
+
+//Quotation page
+"Compare" = "መተንተን";
+"Total Premium" = "አጠቃላይ ዋጋ";
+"Selected" = "ተመርጧል";
+"Select" = "ምረጥ";
+"View Checklist" = "ክፍለ-በጎችን ይመልከቱ";
+"No Checklist Available" = "የምረጥዋን ክፍለ-በጎ የለም";
+"Based on the criteria you have selected, this product is not eligible for you." = "በሚጠቅምለት ቅደም ላይ በተመረጠው ውጤት ይመልከቱ። ይህ ንግድ ይታየዋል።";
+"INSTALLMENTS" = "ክፍያዎች";
+"BREAK-DOWN" = "የተመረጠ ክፍል";
+"Quotation" = "ዋጋ";
+"Compare Quotations" = "ዋጋዎችን መተንተን";
+"Check List" = "ክፍለ-በግ";
+"Quotation Installments" = "ዋጋ ክፍያዎች";
+"S.No" = "ማስታወሻ ቀን";
+"Installment Period" = "ክፍያ በጊዜ";
+"Amount" = "ብዛት";
+"Quotation Break-Down" = "ዋጋን የተመረጠ ክፍል";
+"Premium Category" = "ከፋይ ካቶሊክ";
+"Total" = "አጠቃላይ";
+"PROCEED TO BUY" = "ለማግኘት ቀጥል";
+"Compare products" = "የምግብ ንግድን መተንተን";
+"Please select only two products for comparison." = "እባክዎ ለማነፃፀር ሁለት ምርቶችን ብቻ ይምረጡ።";
+
+//Quotation history
+"User Name" = "የተጠቃሚ ስም";
+"Created On" = "በፊት ተከታይ ቀን";
+"Policy Type" = "ፖለሲ አይነት";
+"Account Number" = "መለያ ቁጥር";
+"Expiry Date" = "በምሳሌ ቀን";
+"Quotation List" = "ዋጋ ዝርዝር";
+
+//Error Message
+"Please select your organisation to continue!" = "እባክዎ ለመቀጠል ድርጅትዎን ይምረጡ!";
+"Please enter your email address to continue!" = "እባክዎ ለመቀጠል የኢሜል አድራሻዎን ያስገቡ!";
+"Please enter valid email address to continue!" = "እባክዎ ለመቀጠል ትክክለኛ የኢሜይል አድራሻ ያስገቡ!";
+"Please enter your password to continue!" = "እባክዎ ለመቀጠል የይለፍ ቃልዎን ያስገቡ!";
+"Please enter your full name to continue!" = "እባክዎ ለመቀጠል ሙሉ ስምዎን ያስገቡ!";
+"Please enter your phone number to continue!" = "እባክዎ ለመቀጠል ስልክ ቁጥርዎን ያስገቡ!";
+"Please enter your valid phone number to continue!" = "እባክዎ ለመቀጠል ትክክለኛ ስልክ ቁጥርዎን ያስገቡ!";
+"Please select adjustment type to continue!" = "እባክዎ ለመቀጠል የማስተካከያ አይነት ይምረጡ!";
+"Please select risk category to continue!" = "እባክዎ ለመቀጠል የአደጋ ምድብ ይምረጡ!";
+"Please enter amount to continue!" = "እባክዎ ለመቀጠል መጠኑን ያስገቡ!";
+"Amount value cannot be 0." = "የመጠን ዋጋ 0 ሊሆን አይችልም።";
+"Amount exceeds the maximum limit of " = "መጠን ከከፍተኛው ገደብ አልፏል";
+"Please enter comments to continue!" = "እባክዎ ለመቀጠል አስተያየቶችን ያስገቡ!";
+"Something went wrong" = "የሆነ ስህተት ተከስቷል";
+"Customer Type is required" = "የደንበኛ አይነት ያስፈልጋል";
+"Either Customer ID or Customer Name is required" = "የደንበኛ መታወቂያ ወይም የደንበኛ ስም ያስፈልጋል";
+"Please select the customer" = "እባክዎ ደንበኛን ይምረጡ";
+"Server Error: Oops! Something went wrong on our end. Our servers are experiencing technical difficulties. We apologize for the inconvenience. Please try again later." = "የአገልጋይ ስህተት፡ ውይ! በእኛ በኩል የሆነ ችግር ተፈጥሯል። አገልጋዮቻችን የቴክኒክ ችግሮች እያጋጠማቸው ነው። ለተፈጠረው ችግር ይቅርታ እንጠይቃለን። እባክህ ቆይተህ እንደገና ሞክር።";
+
+
